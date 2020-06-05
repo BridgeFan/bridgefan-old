@@ -1,0 +1,11 @@
+13 5 2 8 1
+Player_1
+5 0
+Player_2
+4 0
+Player_3
+3 0
+Player_4
+8 0
+Player_5
+2 0
